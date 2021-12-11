@@ -1,2 +1,2 @@
-#Научиться учиться
-Сайт содержит материалы о техниках и лайфхаках обучения и развития.
+#How-to-learn
+The site contains materials about learning and development techniques and life hacks. HTML, CSS
