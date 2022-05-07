@@ -9,3 +9,6 @@
 * Flex
 * Анимация фоновых иллюстраций
 * iframe (для видео)
+
+##
+Anuprienko Stanislav
