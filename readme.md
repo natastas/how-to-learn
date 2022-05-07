@@ -1,2 +1,11 @@
-#How-to-learn
-The site contains materials about learning and development techniques and life hacks. HTML, CSS
+# [HOW TO LEARN](https://natastas.github.io/how-to-learn/)
+Проектная работа, созданная по брифу Яндекс Практикума. Веб-страничка рассказывает о принципах обучения.
+
+## Стек технологий:
+
+* HTML
+* CSS
+* БЭМ-методология
+* Flex
+* Анимация фоновых иллюстраций
+* iframe (для видео)
